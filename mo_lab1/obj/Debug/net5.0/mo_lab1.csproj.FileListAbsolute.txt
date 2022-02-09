@@ -1,0 +1,16 @@
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.exe
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.deps.json
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.runtimeconfig.json
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.runtimeconfig.dev.json
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.dll
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\ref\mo_lab1.dll
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\bin\Debug\net5.0\mo_lab1.pdb
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.csproj.AssemblyReference.cache
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.AssemblyInfoInputs.cache
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.AssemblyInfo.cs
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.csproj.CoreCompileInputs.cache
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.dll
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\ref\mo_lab1.dll
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.pdb
+C:\Users\siman\OneDrive\Рабочий стол\mo\lab1\MO_lab1\mo_lab1\obj\Debug\net5.0\mo_lab1.genruntimeconfig.cache
